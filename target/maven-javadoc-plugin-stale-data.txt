@@ -1,0 +1,66 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/simp/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE130/AbsoluteLayout-RELEASE130.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/simp/Desktop/JavaGraph/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/simp/Desktop/JavaGraph/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaGraph 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JavaGraph 1.0-SNAPSHOT API'
+com.mycompany.javagraph
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/Graph.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/GraphPanel.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/HomeScreen.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/JavaGraph.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/Link.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/Node.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/Screen1.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/Screen2.java'
+'C:/Users/simp/Desktop/JavaGraph/src/main/java/com/mycompany/javagraph/Screen3.java'
+C:\Users\simp\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE130\AbsoluteLayout-RELEASE130.jar = 1655047212269
+C:\Users\simp\Desktop\JavaGraph\src\main\java = 1655678066243
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\allclasses-index.html = 1655678123433
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\allpackages-index.html = 1655678123435
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\Class2.html = 1655678022145
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\Class3.html = 1655678022161
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\Class4.html = 1655678022174
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\copy.svg = 1655678123499
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\element-list = 1655678123225
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\help-doc.html = 1655678123494
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\index-all.html = 1655678123482
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\index.html = 1655678123486
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\jquery-ui.overrides.css = 1655678123556
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\Link.html = 1655678022582
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\member-search-index.js = 1655678123440
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\module-search-index.js = 1655678123436
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\Node.html = 1655678022636
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\overview-summary.html = 1655678023109
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\overview-tree.html = 1655678123421
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\package-search-index.js = 1655678123438
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\package-summary.html = 1655678022784
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\package-tree.html = 1655678022789
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\package-use.html = 1655678022983
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\script.js = 1655678123498
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\search.js = 1655678123500
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\serialized-form.html = 1655678123315
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\stylesheet.css = 1655678123497
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\tag-search-index.js = 1655678123441
+C:\Users\simp\Desktop\JavaGraph\target\site\apidocs\type-search-index.js = 1655678123439
